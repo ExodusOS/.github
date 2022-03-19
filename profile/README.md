@@ -1,6 +1,5 @@
 ## Hey, this is us 👋
-
-<img align='center' src='https://www.craft-rom.pp.ua/images/file/craftrom-manager.png' width='150"'>
+[![Illustr](https://www.craft-rom.pp.ua/images/file/craftrom-manager.png)]
 
 The first mention of CraftRom appeared in **2020** 🤯. The main principles of the community are the stability and quality of the product, as well as help in solving problems and friendly chats. We won't stop!
 
