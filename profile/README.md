@@ -1,29 +1,31 @@
-## Hey, this is us 👋
-[![Illustr](https://www.craft-rom.pp.ua/images/file/craftrom-manager.png)]
+# ***EXODUS OS***
 
-The first mention of CraftRom appeared in **2020** 🤯. The main principles of the community are the stability and quality of the product, as well as help in solving problems and friendly chats. We won't stop!
+Welcome to ***Exodus OS***
 
-### 🍿 An interconnected community
+Functionally Minimalistic! ***Exodus OS*** is a Custom OS based on Lineage OS with enhancements tweaks from and some  features to enhance your daily driving experience.
 
-All open source software created or used by us may be edited or supplemented by you.
+### Get started
 
-### 🦦 Our ecosystem
+To get started, you're gonna have to check the following repositories:
 
-We support 🧙‍♂️ our own open source projects such as:
+- [Manifest](https://github.com/ExodusOS/android.git)
+- [Vendor](https://github.com/ExodusOS/android_vendor_exodus.git)
 
-- [CraftRom Manager](https://github.com/CraftRom/CraftRom-Manager) - The official CraftRom community app with many features
-- Chidori Kernel - Custom kernel for different devices based on the Android operating system
+### Credits
 
+- [ProtonAOSP](https://github.com/protonaosp)
+- [LineageOS](https://github.com/lineageos)
+- [PixelExperience](https://github.com/pixelexperience)
 
 <details> 
 	<summary>"Communication method for solving various problems, as well as supporting users."</summary>
 	<br>
 	<ul>
 	<li><a href="https://t.me/craft_rom">Telegram group</a> - For a discussion of devices, features, or just a general conversation about Android, check out our telegram.</li>
-	<li><a href="https://t.me/ct_host">Telegram news channel</a> - Update ROMs, kernels and other news.</li>
+	<li><a href="https://t.me/craftrom_news">Telegram news channel</a> - Update ROMs, kernels and other news.</li>
 	</ul>
 </details>
 
 ---
 
-<sub>🤫 Psst! </> with ❤️ by melles1991.</sub>
+<sub>🤫 Psst! </> with ❤️ by melles1991 and Sensei Developer.</sub>
