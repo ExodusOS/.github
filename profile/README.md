@@ -13,9 +13,10 @@ To get started, you're gonna have to check the following repositories:
 
 ### Credits
 
-- [ProtonAOSP](https://github.com/protonaosp)
 - [LineageOS](https://github.com/lineageos)
+- [ParanoidAOSP](https://github.com/AOSPA)
 - [PixelExperience](https://github.com/pixelexperience)
+- [ProtonAOSP](https://github.com/protonaosp)
 
 <details> 
 	<summary>"Communication method for solving various problems, as well as supporting users."</summary>
