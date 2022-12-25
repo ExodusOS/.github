@@ -1,4 +1,4 @@
-# ***EXODUS OS***
+![banner](https://raw.githubusercontent.com/ExodusOS/.github/craftrom.png)
 
 Welcome to ***Exodus OS***
 
