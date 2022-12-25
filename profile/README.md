@@ -14,6 +14,7 @@ To get started, you're gonna have to check the following repositories:
 ### Credits
 
 - [LineageOS](https://github.com/lineageos)
+- [OmniROM](https://github.com/omnirom)
 - [ParanoidAOSP](https://github.com/AOSPA)
 - [PixelExperience](https://github.com/pixelexperience)
 - [ProtonAOSP](https://github.com/protonaosp)
